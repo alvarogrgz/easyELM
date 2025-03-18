@@ -29,3 +29,8 @@ References
 --------------------------------------------------------------------------------
 Huang, Guang-Bin & Zhu, Qin-Yu & Siew, Chee. (2004). Extreme learning machine: A new learning scheme of feedforward neural networks. IEEE International Conference on Neural Networks - Conference Proceedings. 2. 985 - 990 vol.2. 10.1109/IJCNN.2004.1380068. 
 
+Contact
+--------------------------------------------------------------------------------
+For inquiries, collaborations, or any questions, feel free to reach out through email:
+
+- **Email:** [alvarogrgz@gmail.com](mailto:alvarogrgz@gmail.com)
