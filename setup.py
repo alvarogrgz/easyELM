@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='easyELM',
     version='1.0',
-    description=('Extreme Learning Machine implentation'),
+    description=('Extreme Learning Machine python package'),
     author='Álvaro García González',
     author_email='alvarogrgz@gmail.com',
     url='https://github.com/alvarogrgz/easyELM',
